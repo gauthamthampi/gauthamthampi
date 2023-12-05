@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauthamthampi
+- 👋 Hi,  I’m @gauthamthampi
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning MERN
 
