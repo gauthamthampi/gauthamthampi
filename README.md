@@ -1,6 +1,7 @@
-- 👋 Hi,  I’m @gauthamthampi
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning MERN
+# Hi there, I'm Gautham S Thampi! 👋
+
+I'm a passionate MERN stack developer currently learning and building projects with MongoDB, Express.js, React, and Node.js. I love solving problems, writing efficient code, and continuously improving my skills.
+
 
 
 <!---
