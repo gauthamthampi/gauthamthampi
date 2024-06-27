@@ -4,7 +4,7 @@ I'm a passionate MERN stack developer currently learning and building projects w
 
 ## 🛠️ Skills & Technologies
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React, Next
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, SQL
 - **Tools:** Git, GitHub, Visual Studio Code
