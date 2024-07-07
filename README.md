@@ -1,4 +1,4 @@
-# Hi there, I'm Gautham S Thampi! 👋
+# Hi there, I'm Gautham! 👋
 
 I'm a passionate MERN stack developer currently learning and building projects with MongoDB, Express.js, React, and Node.js. I love solving problems, writing efficient code, and continuously improving my skills.
 
