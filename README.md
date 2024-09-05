@@ -8,6 +8,7 @@ I'm a passionate MERN stack developer currently learning and building projects w
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, SQL
 - **Tools:** Git, GitHub, Visual Studio Code
+- **Containerization and Orchestration**: Docker, Kubernetes
 - **Others:** RESTful APIs, JWT Authentication, Redux
 
 ## 🌱 Learning & Goals
