@@ -12,7 +12,7 @@ I'm a passionate MERN stack developer currently learning and building projects w
 
 ## 🌱 Learning & Goals
 
-- Currently enhancing my skills in advanced React and Node.js
+- Currently enhancing my skills Full stack web Developmemnt.
 - Also exploring Docker and Kubernetes for containerization and orchestration and gRPC and Kafka for server side communication.
 - Aiming to contribute to open-source projects and collaborate with the developer community
 
