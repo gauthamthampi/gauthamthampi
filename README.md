@@ -5,7 +5,7 @@ I'm a Software developer currently learning and building projects with MERN stac
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML,CSS,JavaScript,Typescript,React,Next-blue?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Frontend-HTML,CSS,JavaScript,Typescript,React,Next-blue?style=for-the-badge" alt="Frontend" />\n
   <img src="https://img.shields.io/badge/Backend-Node.js,Express.js-green?style=for-the-badge" alt="Backend" />
   <img src="https://img.shields.io/badge/Database-MongoDB,SQL-orange?style=for-the-badge" alt="Database" />
   <img src="https://img.shields.io/badge/Tools-Git,GitHub-black?style=for-the-badge" alt="Tools" />
