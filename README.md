@@ -50,15 +50,19 @@ I'm a Software developer currently learning and building projects with MERN stac
 
 ## 📊 Statistics
 
-<div>
+<div align="center">
 
-  ![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthamthampi&show_icons=true&theme=radical)
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gauthamthampi&show_icons=true&theme=radical" alt="Gautham's GitHub Stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamthampi&layout=compact&theme=radical" alt="Top Languages" height="200" />
+  </div>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamthampi&layout=compact&theme=radical)
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=gauthamthampi&theme=radical)
+  <div style="margin-top: 20px;">
+    <img src="https://streak-stats.demolab.com/?user=gauthamthampi&theme=radical" alt="GitHub Streak" height="200" />
+  </div>
 
 </div>
+
 
 ## 🎉 Fun Facts
 
