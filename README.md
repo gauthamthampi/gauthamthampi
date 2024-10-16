@@ -42,6 +42,11 @@ I'm a Software developer currently learning and building projects with MERN stac
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+<div>
+  <a href="https://leetcode.com/u/devdragon88/"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</div>
 
 ## 🎉 Fun Facts
 
