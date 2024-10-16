@@ -48,7 +48,7 @@ I'm a Software developer currently learning and building projects with MERN stac
   </a>
 </div>
 
-<div align="center">
+<div>
 
   ![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthamthampi&show_icons=true&theme=radical)
 
@@ -57,10 +57,6 @@ I'm a Software developer currently learning and building projects with MERN stac
   ![GitHub Streak](https://streak-stats.demolab.com/?user=gauthamthampi&theme=radical)
 
 </div>
-
-[![Gautham's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauthamthampi&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 ## 🎉 Fun Facts
 
