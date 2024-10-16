@@ -48,6 +48,8 @@ I'm a Software developer currently learning and building projects with MERN stac
   </a>
 </div>
 
+## 📊 Statistics
+
 <div>
 
   ![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthamthampi&show_icons=true&theme=radical)
