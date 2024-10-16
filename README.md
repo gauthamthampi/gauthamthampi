@@ -7,19 +7,19 @@ I'm a Software developer currently learning and building projects with MERN stac
 <div>
   <img src="https://img.shields.io/badge/Frontend-HTML,CSS,JavaScript,Typescript,React,Next-blue?style=for-the-badge" alt="Frontend" />
 </div>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Backend-Node.js,Express.js-green?style=for-the-badge" alt="Backend" />
 </div>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Database-MongoDB,SQL-orange?style=for-the-badge" alt="Database" />
 </div>
-<div align="center">
+<div >
   <img src="https://img.shields.io/badge/Tools-Git,GitHub-black?style=for-the-badge" alt="Tools" />
 </div>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Containerization-Docker,Kubernetes-informational?style=for-the-badge" alt="Docker & Kubernetes" />
 </div>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Others-Redux,JWT,RESTful_API-yellow?style=for-the-badge" alt="Others" />
 </div>
 
@@ -32,12 +32,12 @@ I'm a Software developer currently learning and building projects with MERN stac
 
 ## 📫 Contact Me
 
-<div align="center">
+<div>
   <a href="mailto:gthampies@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/gautham-s-thampi-729206232/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
