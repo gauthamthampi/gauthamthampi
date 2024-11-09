@@ -13,15 +13,19 @@ Hi there, I'm a Software developer currently learning and building projects with
 <div>
   <img src="https://img.shields.io/badge/Database-MongoDB,SQL-orange?style=for-the-badge" alt="Database" />
 </div>
-<div >
+<div>
   <img src="https://img.shields.io/badge/Tools-Git,GitHub-black?style=for-the-badge" alt="Tools" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/Containerization-Docker,Kubernetes-informational?style=for-the-badge" alt="Docker & Kubernetes" />
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Cloud-Firebase,AWS-orange?style=for-the-badge" alt="Cloud" />
+</div>
+<div>
   <img src="https://img.shields.io/badge/Others-Redux,JWT,RESTful_API-yellow?style=for-the-badge" alt="Others" />
 </div>
+
 
 
 ## 🌱 Learning & Goals
