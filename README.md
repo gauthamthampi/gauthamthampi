@@ -68,11 +68,6 @@ Hi there, I'm a Software developer currently learning and building projects with
 </div>
 
 
-## 🎉 Fun Facts
-
-- I enjoy watching movies, and *No Country for Old Men* is my favorite film.
-- I'm an avid reader and love exploring new tech blogs and articles.
-
 <!---
 gauthamthampi/gauthamthampi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
