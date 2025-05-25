@@ -1,74 +1,77 @@
-# Hello World! </>
-
-Hi there, I'm a Software developer currently learning and building projects with MERN stack. I love solving problems, writing efficient code, and continuously improving my skills.
-
-## 🛠️ Skills & Technologies
-
-<div>
-  <img src="https://img.shields.io/badge/Frontend-HTML,CSS,JavaScript,Typescript,React,Next-blue?style=for-the-badge" alt="Frontend" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Backend-Node.js,Express.js-green?style=for-the-badge" alt="Backend" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Database-MongoDB,SQL-orange?style=for-the-badge" alt="Database" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Tools-Git,GitHub-black?style=for-the-badge" alt="Tools" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Containerization-Docker,Kubernetes-informational?style=for-the-badge" alt="Docker & Kubernetes" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Cloud-Firebase,AWS-orange?style=for-the-badge" alt="Cloud" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Others-Redux,JWT,RESTful_API-yellow?style=for-the-badge" alt="Others" />
-</div>
+<h1 align="center">Hello World! 🤖</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding-gif" />
+</p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Loves+Systems+Programming;Building+Efficient+Software;Learning+and+Unlearning.." alt="Typing SVG" />
+</p>
 
-## 🌱 Learning & Goals
+---
 
-- Currently enhancing my Full Stack Web Development skills.
-- Exploring **Docker** and **Kubernetes** for containerization and **gRPC** and **Kafka** for server-side communication.
-- Aiming to contribute to open-source projects and collaborate with the developer community.
+## About Me
 
-## 📫 Contact Me
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyMDI0OTksIm5iZiI6MTc0ODIwMjE5OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI1VDE5NDMxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUzZWYwMWM0YzIwY2VkYzhlMGM3NWUwNjI0ZDYwMGI0NGRlODQ2YjJiOGNhMTYyMDdlNjdhZGNkOGVhNWQ3ZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OWSzSuGX2QrSm9h0Cz4n1ntyzzNyT68hrUJ6POS6M0A" width="200" />
+</p>
 
-<div>
-  <a href="mailto:gthampies@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-<div>
-  <a href="https://www.linkedin.com/in/gautham-s-thampi-729206232/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-<div>
-  <a href="https://leetcode.com/u/devdragon88/"/>
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</div>
+I'm a software developer with a strong foundation in full-stack web development (MERN) and currently transitioning into systems programming and performance-critical development using C++. I love diving deep into how things work under the hood, exploring memory management, system architecture, and building tools that are fast and reliable.
 
-## 📊 Statistics
+---
+
+## Tech Stack & Tools
 
 <div align="center">
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=gauthamthampi&show_icons=true&theme=radical" alt="Gautham's GitHub Stats" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamthampi&layout=compact&theme=radical" alt="Top Languages" height="200" />
-  </div>
-
-  <div style="margin-top: 20px;">
-    <img src="https://streak-stats.demolab.com/?user=gauthamthampi&theme=radical" alt="GitHub Streak" height="200" />
-  </div>
+| **Domain**         | **Technologies**                                                                 |
+|--------------------|----------------------------------------------------------------------------------|
+| 💻 Languages        | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> |
+| 🌐 Web              | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
+| 🧰 Tools & DevOps   | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
+| ☁️ Cloud & Infra    | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> |
+| 🗃️ Databases        | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| 📦 Others           | Redux, REST APIs, gRPC                                                          |
 
 </div>
 
 
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gauthamthampi&show_icons=true&theme=tokyonight&hide_border=true" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamthampi&layout=compact&theme=tokyonight&hide_border=true" height="200" />
+<img src="https://streak-stats.demolab.com/?user=gauthamthampi&theme=tokyonight&hide_border=true" height="200" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="300" />
+</p>
+
+<p align="center">
+  <a href="mailto:gthampies@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gautham-s-thampi-729206232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/devdragon88/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+---
+
+## Tip
+
+> *“Talking is cheap. Show me the code!”* 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="200" />
+</p>
+
 <!---
-gauthamthampi/gauthamthampi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+gauthamthampi/gauthamthampi is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
